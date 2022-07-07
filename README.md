@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y1234567890-eng
-- 👀 I’m interested in Prohramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, Android Studio (Kotlin), Python and Ui Path
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
