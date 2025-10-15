@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MYJ World
-- 👋 My username is @y1234567890-eng
+- 👋 Hi, I’m Yousuf
+- 👋 My username is @myj-world
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, Android Studio (Kotlin), Python, Ui Path, HTML, JS, CSS, PHP, Node.js, Swift and many other things :)
+- 🌱 I’m currently learning Android Studio (Kotlin), Python, Ui Path, HTML, JS, CSS, PHP and many other things :)
 - 📫 How to reach me - contact.us.myj@gmail.com
 
 <!-- - 💞️ I’m looking to collaborate on - -->
